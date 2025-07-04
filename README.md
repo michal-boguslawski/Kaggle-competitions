@@ -3,6 +3,7 @@ Repository where I present my work related to Kaggle competitions
 
 ## Predicting Optimal Fertilizers
 Type of problem: Multinomial Classification
+
 Summary of models
 | Model Description | Used frameworks | Private Score | Public Score |
 |-------------------|-----------------|---------------|--------------|
