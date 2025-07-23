@@ -1,0 +1,1 @@
+kaggle competitions submit -c playground-series-s5e7 -f submission.csv -m "Message"
