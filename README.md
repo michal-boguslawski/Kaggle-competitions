@@ -1,11 +1,10 @@
 # Kaggle-competitions
 Repository where I present my work related to Kaggle competitions
-<<<<<<< Updated upstream
-=======
+
 
 ## Predict the Introverts from the Extroverts
 Link to competition:
-[Predicting Optimal Fertilizers](https://www.kaggle.com/competitions/playground-series-s5e7/overview)
+[Predict the Introverts from the Extroverts](https://www.kaggle.com/competitions/playground-series-s5e7/overview)
 
 Type of problem: Binary Classification
 
@@ -20,5 +19,4 @@ Summary of models
 | Logistic basic | sklearn |  | 0.974089 |
 | Logistic with interactions | statsmodels |  | 0.974089 |
 | xgboost | xgboost |  | <b>0.975708</b> |
-| xgboost with optuna | xgboost |  | 0.974898 |
->>>>>>> Stashed changes
+| xgboost with optuna | xgboost |  | <b>0.975708</b> |
