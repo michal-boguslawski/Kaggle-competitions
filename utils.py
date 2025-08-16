@@ -29,4 +29,4 @@ def submit_data(competition_name: str, folder: str, message: str = "Test"):
     
     
 if __name__ == "__main__":
-    download_data('playground-series-s5e7')
+    download_data('playground-series-s5e8')
